@@ -1,22 +1,11 @@
-# Social Media App
+# Social Modern UI
 
-This is a Flutter-based Social Media App with a sleek and modern design.
+<div>
 
-![image](https://user-images.githubusercontent.com/67297759/190064136-5f096750-e957-4817-8372-145b537d7a88.png)
-![image](https://user-images.githubusercontent.com/67297759/190063284-25aac6bf-c869-4925-be56-83117027e207.png)
+<img src="https://github.com/MoRoshdy/Social-Modern-UI/assets/92895129/3543b3ee-2e44-4fdf-88a2-c728b2de5ffc" width=200 height=400>
 
-## Installation
-To get started, you need to have [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine. Then, follow the instructions below:
+<img src="https://github.com/MoRoshdy/Social-Modern-UI/assets/92895129/87ec4eb7-c5ec-4476-b9f5-b6cfd37062e2" width=200 height=400>
 
-1. Open the terminal and navigate to the project folder.
-2. Run the command `flutter packages get` to install the required packages.
-3. Run `flutter run` to build and run the debug app on your emulator/phone
+<img src="https://github.com/MoRoshdy/Social-Modern-UI/assets/92895129/dd7a00fa-50b8-4825-89c3-f61948e7a45a" width=200 height=400>
 
-## Credits
-
-- [Sajon](https://dribbble.com/sajon) for the original [Social Media App Design](https://dribbble.com/shots/15468493-Social-Media-App)
-- [Flutter](https://flutter.dev) for providing an amazing cross-platform framework.
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/rrdhoi/SocialMediaApp/blob/master/LICENSE).
+</div>
